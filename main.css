@@ -1,0 +1,102 @@
+body{
+    background-image: url("https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2018/12/fundo-cinza-claro5.jpg?resize=696%2C696&ssl=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{
+    width: 98%;
+    background-color: blue;
+    height: 12%;
+    padding: 1%;
+    margin-bottom: 0.5%;
+}
+
+#logo{
+    width: 6%;
+    display: block;
+    margin: 0 auto;
+}
+
+aside{
+    background-color: grey;
+    width: 20%;
+    padding: 1%;
+    margin-right: 1%;
+}
+
+aside button{
+    border-radius: 12px;
+ 
+}
+
+.flex{
+    display: flex;
+}
+
+.horizontal{
+    flex-direction: row;
+}
+
+.vertical{
+    flex-direction: column;
+}
+
+main{
+    background-color: white;
+    width: 75%;
+    padding: 1%;
+}
+main img{
+    min-height: 600px;
+    margin-right: 6%;
+}
+
+main p{
+    font-size: xx-large;
+    width: 100%;
+    border-bottom: 2px black solid;
+}
+
+#deuRuim{
+    margin: 1%;
+}
+
+.ronaldo{
+    margin-top: 10%;
+}
+
+.card-body{
+    min-width: 400px;
+}
+.form-group input{
+    width: 84%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+}
+
+.input-group-prepend{
+    width: 45px;
+    height: 36px;
+    margin-bottom: 1%;
+    margin-right: 1%;
+}
+
+.input-group-text{
+    width: 100%;
+    height: 100%;
+}
+
+.fa-user{
+    width: -webkit-fill-available;
+    height: auto;
+}
+
+#personagem{
+    max-width: 600px;
+    width: 40%;
+}
+
+.introducao{
+color: black;    
+}
